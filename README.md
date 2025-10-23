@@ -1,2 +1,2 @@
 # Lighthouse_demo
-Bring Lighthouse into the light
+Bringing Lighthouse into the light
