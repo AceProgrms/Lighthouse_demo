@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: #f4f4f4;
+    margin: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+nav {
+    background-color: black;
+    color: rgb(176, 179, 187);
+    font-size: larger;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 5px solid white;
+}
+.navlink {
+    margin: 0px 5px;
+    text-decoration: none;
+    color: white;
+}
+#navleft {
+    padding-left: 5px;
+}
+#navright {
+    padding-right: 10px;
+}
+#headerimg {
+    width: 50%;
+    display: flex;
+    justify-self: center;
+    
+}
